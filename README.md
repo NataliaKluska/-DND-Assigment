@@ -4,3 +4,4 @@ Natalia Kronborg Jensen
 Daria Maria Chita
 Gabriela Iachim
 Oscar Bustos Herberg
+Irina Maria Mereuță 
