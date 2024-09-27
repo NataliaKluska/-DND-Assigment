@@ -30,8 +30,8 @@ My aim for implementing a travel blog is to create a platform that is practical,
    _As a visitor (without logging in), I want to browse and view travel stories, so I can read about travel experiences even if I haven't created an account._
 5. **Role-Based Access (Admin vs Regular User)**
 
-_As an admin, I want to moderate all submitted stories, so I can ensure inappropriate or irrelevant content is removed._
- _As an admin, I want to delete or edit any user's story, so I can maintain the quality of the blog._
+  _As an admin, I want to moderate all submitted stories, so I can ensure inappropriate or irrelevant content is removed._
+  _As an admin, I want to delete or edit any user's story, so I can maintain the quality of the blog._
 
 6. **User Authentication & Security**  
    _As a user, I want my account to be protected with a secure password hashing mechanism, so my credentials are safe._
