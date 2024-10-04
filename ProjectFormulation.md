@@ -8,7 +8,7 @@ The DND course project is a **Travel Blog** platform that allows users to share 
 
 Travel blogs are an exciting way for people to document and share their travel experiences, while also offering inspiration to others looking for new destinations or travel tips. Technically, this project covers essential software development concepts like authentication and CRUD operations, while also focusing on development practices such as RESTful APIs and using Blazor for an engaging frontend experience.
 
-Our aim for implementing a travel blog is to create a platform that is practical, user-driven, and scalable. The project also allows me to deal with real-world challenges like managing user-generated content and securing user data.
+Our aim for implementing a travel blog is to create a platform that is practical, user-driven, and scalable. The project also allows us to deal with real-world challenges like managing user-generated content and securing user data.
 
 ---
 
