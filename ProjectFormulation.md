@@ -2,7 +2,7 @@
 
 ### Project Description (Domain)
 
-The DND course project is a **Travel Blog** platform that allows users to share their travel experiences and stories from different countries. Users can register, log in, and submit blog posts that describe their adventures, providing details about their travels. Other users, both registered and unregistered, can browse and read these stories. 
+The DND course project is a **Travel Blog** platform that allows users to share their travel experiences and stories from different countries. Users can register, log in, and submit blog posts that describe their adventures, providing details about their travels and link external sites for booking the experiences described. Other users, both registered and unregistered, can browse and read these stories and access the booking links. 
 
 #### Why This Project?
 
@@ -52,10 +52,6 @@ The core focus of the project will be on the following required functionalities:
 
 #### Potential Features Not Prioritized in the Initial Version:
 
-##### Main Improvement: Role-Based Access (Admin vs Regular User)
-- Admins should be present and able to moderate all submitted stories, so they can ensure inappropriate or irrelevant content is removed.
-
-##### Secondary Improvements:
 - Advanced search and filtering of stories based on keywords or regions.
 - Profile management features beyond basic login and password change.
 - Full mobile-responsive design or extensive UI/UX improvements.
