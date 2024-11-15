@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelBlogAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae02feaeaae49a19612f1f2bb44838c90b3f5e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fba5686502b94b5cf4454b6bb95234fafab02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelBlogAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelBlogAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
