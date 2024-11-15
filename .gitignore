@@ -1,10 +1,3 @@
-bin/
-obj/
-*.user
-*.suo
-*.swp
-.DS_Store
-*.log
 *.swp
 .~
 project.lock.json
@@ -50,4 +43,12 @@ msbuild.err
 msbuild.wrn
 
 #Ignore data.json file 
+<<<<<<< HEAD
 data.json
+=======
+data.json
+TravelBlogAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+TravelBlogAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.dll
+TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.exe
+>>>>>>> main
