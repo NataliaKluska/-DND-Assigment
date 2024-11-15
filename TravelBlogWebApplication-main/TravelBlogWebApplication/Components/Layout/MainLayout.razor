@@ -1,0 +1,29 @@
+﻿@inherits LayoutComponentBase
+
+<div class="navbar-container">
+    <!-- Logo -->
+    <div class="logo">WANDERLY</div>
+    
+    <!-- Navigation Links -->
+    <nav class="navbar">
+        <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">HOME</NavLink>
+        <NavLink href="/browse" class="nav-link">BROWSE</NavLink>
+        <NavLink href="/search" class="nav-link">
+            <span class="icon">&#128269;</span> SEARCH
+        </NavLink>
+        <NavLink href="/write" class="nav-link">WRITE</NavLink>
+        <NavLink href="/account" class="nav-link">ACCOUNT</NavLink>
+    </nav>
+</div>
+
+<!-- Main Content Area -->
+<div class="main-content">
+    @Body
+</div>
+
+<!-- Error UI -->
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>
