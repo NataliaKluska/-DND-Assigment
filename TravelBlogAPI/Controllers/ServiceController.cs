@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using TravelBlogAPI.Data;
 using TravelBlogAPI.Models;
 
-namespace TravelBlogAPI.Controllers
+namespace TravelBlogAPI.Controllers // hola
 {
     [Route("api/[controller]")]
     [ApiController]
