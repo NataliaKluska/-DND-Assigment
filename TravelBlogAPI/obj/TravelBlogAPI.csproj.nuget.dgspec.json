@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VIA\\7th Semester\\DND\\TravelBlogAPI\\TravelBlogAPI\\TravelBlogAPI.csproj": {}
+    "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\-DND-Assigment\\TravelBlogAPI\\TravelBlogAPI.csproj": {}
   },
   "projects": {
-    "D:\\VIA\\7th Semester\\DND\\TravelBlogAPI\\TravelBlogAPI\\TravelBlogAPI.csproj": {
+    "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\-DND-Assigment\\TravelBlogAPI\\TravelBlogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VIA\\7th Semester\\DND\\TravelBlogAPI\\TravelBlogAPI\\TravelBlogAPI.csproj",
+        "projectUniqueName": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\-DND-Assigment\\TravelBlogAPI\\TravelBlogAPI.csproj",
         "projectName": "TravelBlogAPI",
-        "projectPath": "D:\\VIA\\7th Semester\\DND\\TravelBlogAPI\\TravelBlogAPI\\TravelBlogAPI.csproj",
-        "packagesPath": "C:\\Users\\irina\\.nuget\\packages\\",
-        "outputPath": "D:\\VIA\\7th Semester\\DND\\TravelBlogAPI\\TravelBlogAPI\\obj\\",
+        "projectPath": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\-DND-Assigment\\TravelBlogAPI\\TravelBlogAPI.csproj",
+        "packagesPath": "C:\\Users\\chita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\-DND-Assigment\\TravelBlogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\irina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\chita\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

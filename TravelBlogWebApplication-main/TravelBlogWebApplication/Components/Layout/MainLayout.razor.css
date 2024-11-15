@@ -1,0 +1,45 @@
+/* Navbar container with light green border */
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 2px solid #76C2AF; /* Light green border */
+    margin-bottom: 30px;
+    background-color: white;
+    gap: 20px;
+}
+
+/* Logo styling */
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+    color: #76C2AF;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+
+/* Navigation bar links */
+.navbar {
+    display: flex;
+    gap: 30px;
+    font-size: 1.2em;
+}
+
+.nav-link {
+    color: #76C2AF;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    color: #4A9072; /* Darker green on hover */
+}
+
+/* Search icon styling */
+.icon {
+    font-size: 1.2em;
+    vertical-align: middle;
+}
