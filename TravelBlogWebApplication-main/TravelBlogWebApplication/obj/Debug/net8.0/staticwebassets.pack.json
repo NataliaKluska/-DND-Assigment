@@ -1,40 +1,44 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TravelBlogWebApplication.bundle.scp.css"
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelBlogWebApplication.9s26zdovn3.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\app.css",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
       "PackagePath": "staticwebassets\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
       "PackagePath": "staticwebassets\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg",
       "PackagePath": "staticwebassets\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg"
     },
     {
-      "Id": "C:\\Users\\chita\\Downloads\\TravelBlogWebApplication-main\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
+      "Id": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
       "PackagePath": "staticwebassets\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelBlogWebApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TravelBlogWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
