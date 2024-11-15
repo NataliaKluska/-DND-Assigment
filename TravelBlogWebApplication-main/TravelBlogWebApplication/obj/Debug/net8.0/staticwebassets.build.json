@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "qAOM2SIQqFg9jPATJcdQnazf0vHe+/c1dBP7iI0B36Q=",
+  "Source": "TravelBlogWebApplication",
+  "BasePath": "_content/TravelBlogWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TravelBlogWebApplication\\wwwroot",
+      "Source": "TravelBlogWebApplication",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TravelBlogWebApplication.styles.css",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "TravelBlogWebApplication#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "9s26zdovn3",
+      "Integrity": "ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TravelBlogWebApplication.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "TravelBlogWebApplication#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "9s26zdovn3",
+      "Integrity": "ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\app.css",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oeehgi0cmv",
+      "Integrity": "MPuSkWz0xOMzy0L8NRzQ6YUUZz0ubX5SfmDfSZkWcQA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\favicon.png",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "images/2d935592-1f7b-4362-b131-fd7e0a3e91e5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8umrpx7m7k",
+      "Integrity": "YHk9agi9WxlPUapaMPAUF6Vhf+rYHlEko8AQAbFaRNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "images/6ee8c349-67ad-4855-976b-a7a6aaff6852#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ttoqnheqk8",
+      "Integrity": "MbtOz55wnQAIYWgXHakv3bfAJXtv0vKzHgXDhjuaano=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "images/87432275-84aa-428b-ab3f-4faccab1f585#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cb3qt6vd14",
+      "Integrity": "SNj2ksbqWvd+BxXN6kHpwlgxH5ECeyFzDVSDCoQ6YEw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
+      "SourceId": "TravelBlogWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\",
+      "BasePath": "_content/TravelBlogWebApplication",
+      "RelativePath": "images/9ead1631-6daa-4a11-a247-4895ab5caa81#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ii8hmulzc5",
+      "Integrity": "ppwRaqnL0czxapG7hAXuOcy6ArIA/Bm5HqydVoa580k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MPuSkWz0xOMzy0L8NRzQ6YUUZz0ubX5SfmDfSZkWcQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MPuSkWz0xOMzy0L8NRzQ6YUUZz0ubX5SfmDfSZkWcQA="
+        }
+      ]
+    },
+    {
+      "Route": "app.oeehgi0cmv.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MPuSkWz0xOMzy0L8NRzQ6YUUZz0ubX5SfmDfSZkWcQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oeehgi0cmv"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MPuSkWz0xOMzy0L8NRzQ6YUUZz0ubX5SfmDfSZkWcQA="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/2d935592-1f7b-4362-b131-fd7e0a3e91e5.8umrpx7m7k.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YHk9agi9WxlPUapaMPAUF6Vhf+rYHlEko8AQAbFaRNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8umrpx7m7k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YHk9agi9WxlPUapaMPAUF6Vhf+rYHlEko8AQAbFaRNk="
+        }
+      ]
+    },
+    {
+      "Route": "images/2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\2d935592-1f7b-4362-b131-fd7e0a3e91e5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YHk9agi9WxlPUapaMPAUF6Vhf+rYHlEko8AQAbFaRNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YHk9agi9WxlPUapaMPAUF6Vhf+rYHlEko8AQAbFaRNk="
+        }
+      ]
+    },
+    {
+      "Route": "images/6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MbtOz55wnQAIYWgXHakv3bfAJXtv0vKzHgXDhjuaano=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MbtOz55wnQAIYWgXHakv3bfAJXtv0vKzHgXDhjuaano="
+        }
+      ]
+    },
+    {
+      "Route": "images/6ee8c349-67ad-4855-976b-a7a6aaff6852.ttoqnheqk8.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48107"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MbtOz55wnQAIYWgXHakv3bfAJXtv0vKzHgXDhjuaano=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttoqnheqk8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6ee8c349-67ad-4855-976b-a7a6aaff6852.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MbtOz55wnQAIYWgXHakv3bfAJXtv0vKzHgXDhjuaano="
+        }
+      ]
+    },
+    {
+      "Route": "images/87432275-84aa-428b-ab3f-4faccab1f585.cb3qt6vd14.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SNj2ksbqWvd+BxXN6kHpwlgxH5ECeyFzDVSDCoQ6YEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb3qt6vd14"
+        },
+        {
+          "Name": "label",
+          "Value": "images/87432275-84aa-428b-ab3f-4faccab1f585.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNj2ksbqWvd+BxXN6kHpwlgxH5ECeyFzDVSDCoQ6YEw="
+        }
+      ]
+    },
+    {
+      "Route": "images/87432275-84aa-428b-ab3f-4faccab1f585.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\87432275-84aa-428b-ab3f-4faccab1f585.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SNj2ksbqWvd+BxXN6kHpwlgxH5ECeyFzDVSDCoQ6YEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SNj2ksbqWvd+BxXN6kHpwlgxH5ECeyFzDVSDCoQ6YEw="
+        }
+      ]
+    },
+    {
+      "Route": "images/9ead1631-6daa-4a11-a247-4895ab5caa81.ii8hmulzc5.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppwRaqnL0czxapG7hAXuOcy6ArIA/Bm5HqydVoa580k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ii8hmulzc5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9ead1631-6daa-4a11-a247-4895ab5caa81.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppwRaqnL0czxapG7hAXuOcy6ArIA/Bm5HqydVoa580k="
+        }
+      ]
+    },
+    {
+      "Route": "images/9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\wwwroot\\images\\9ead1631-6daa-4a11-a247-4895ab5caa81.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12209"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppwRaqnL0czxapG7hAXuOcy6ArIA/Bm5HqydVoa580k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppwRaqnL0czxapG7hAXuOcy6ArIA/Bm5HqydVoa580k="
+        }
+      ]
+    },
+    {
+      "Route": "TravelBlogWebApplication.9s26zdovn3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s26zdovn3"
+        },
+        {
+          "Name": "label",
+          "Value": "TravelBlogWebApplication.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w="
+        }
+      ]
+    },
+    {
+      "Route": "TravelBlogWebApplication.9s26zdovn3.styles.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TravelBlogWebApplication.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s26zdovn3"
+        },
+        {
+          "Name": "label",
+          "Value": "TravelBlogWebApplication.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w="
+        }
+      ]
+    },
+    {
+      "Route": "TravelBlogWebApplication.bundle.scp.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TravelBlogWebApplication.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w="
+        }
+      ]
+    },
+    {
+      "Route": "TravelBlogWebApplication.styles.css",
+      "AssetFile": "C:\\Users\\oherb\\Documents\\7th Semenster\\DND1\\Project_git\\-DND-Assigment\\TravelBlogWebApplication-main\\TravelBlogWebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TravelBlogWebApplication.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZxUaUHlCZKCeOTlnBn24ERKmQMsXZ1dlDUTQQZ/yj+w="
+        }
+      ]
+    }
+  ]
+}

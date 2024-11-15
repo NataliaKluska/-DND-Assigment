@@ -51,4 +51,6 @@ TravelBlogAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 TravelBlogAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
 TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.dll
 TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.exe
+TravelBlogAPI/obj/Debug/net8.0/TravelBlogAPI.AssemblyInfo.cs
+TravelBlogAPI/obj/Debug/net8.0/TravelBlogAPI.AssemblyInfoInputs.cache
 >>>>>>> main
