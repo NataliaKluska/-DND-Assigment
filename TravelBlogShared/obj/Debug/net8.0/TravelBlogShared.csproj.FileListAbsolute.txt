@@ -1,0 +1,15 @@
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\bin\Debug\net8.0\TravelBlogShared.deps.json
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\bin\Debug\net8.0\TravelBlogShared.runtimeconfig.json
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\bin\Debug\net8.0\TravelBlogShared.dll
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\bin\Debug\net8.0\TravelBlogShared.pdb
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.csproj.AssemblyReference.cache
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.AssemblyInfoInputs.cache
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.AssemblyInfo.cs
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.csproj.CoreCompileInputs.cache
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.sourcelink.json
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.dll
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\refint\TravelBlogShared.dll
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.pdb
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\TravelBlogShared.genruntimeconfig.cache
+C:\Users\felly\OneDrive\Desktop\Gabi_DND\-DND-Assigment\TravelBlogShared\obj\Debug\net8.0\ref\TravelBlogShared.dll

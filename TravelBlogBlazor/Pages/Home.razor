@@ -1,0 +1,19 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Welcome to the Travel Blog!</h1>
+
+<p>Share your travel experiences with others.</p>
+
+<button @onclick="NavigateToShareStory" class="btn btn-primary mt-3">Share a Travel Story</button>
+
+@code {
+    [Inject]
+    private NavigationManager Navigation { get; set; }
+
+    private void NavigateToShareStory()
+    {
+        Navigation.NavigateTo("/share-story");
+    }
+}

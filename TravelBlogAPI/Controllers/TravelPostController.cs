@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using TravelBlogAPI.Data;
-using TravelBlogAPI.Models;
+using TravelBlogShared.Models;
 
 namespace TravelBlogAPI.Controllers
 {
