@@ -12,7 +12,5 @@ namespace TravelBlogAPI.Data // Update namespace
 
         public DbSet<User> Users { get; set; }
         public DbSet<TravelPost> Posts { get; set; }
-        public DbSet<Booking> Bookings { get; set; }
-        public DbSet<Service> Services { get; set; }
     }
 }
