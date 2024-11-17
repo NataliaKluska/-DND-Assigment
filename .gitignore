@@ -25,6 +25,17 @@ nupkg/
 *.user
 *.userosscache
 *.sln.docstates
+staticwebassets.*
+*.nuget.*
+*.dgspec.json
+project.assets.json
+*.editorconfig
+*.runtimeconfig.cache
+*.props
+
+
+
+
 
 # Build results
 [Dd]ebug/
@@ -43,9 +54,6 @@ msbuild.err
 msbuild.wrn
 
 #Ignore data.json file 
-<<<<<<< HEAD
-data.json
-=======
 data.json
 TravelBlogAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 TravelBlogAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
@@ -53,4 +61,3 @@ TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.dll
 TravelBlogAPI/bin/Debug/net8.0/TravelBlogAPI.exe
 TravelBlogAPI/obj/Debug/net8.0/TravelBlogAPI.AssemblyInfo.cs
 TravelBlogAPI/obj/Debug/net8.0/TravelBlogAPI.AssemblyInfoInputs.cache
->>>>>>> main
