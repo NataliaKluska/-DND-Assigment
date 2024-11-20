@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using TravelBlogShared.Models; // Keep shared models reference
-
-namespace TravelBlogAPI.Data // Update namespace
+using TravelBlogShared.Models; 
+namespace TravelBlogAPI.Data
 {
     public class TravelBlogContext : DbContext
     {
